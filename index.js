@@ -45,7 +45,7 @@ if (age < 100) {
     console.log("Not elegible, you have already gotten one")
 }
 */
-
+/*
 let firstCard = 10
 let secondCard = 11
 let sum = firstCard + secondCard + 4
@@ -63,3 +63,5 @@ if (sum <= 20) {
 }
 
 console.log(isAlive)
+*/
+
